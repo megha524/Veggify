@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "https://YOUR_BACKEND_URL_HERE/api/$1" },
+    { "source": "/api/(.*)", "destination": "https://veggies-backend.onrender.com/api/$1" },
     { "source": "/(.*)", "destination": "/" }
   ]
 }
